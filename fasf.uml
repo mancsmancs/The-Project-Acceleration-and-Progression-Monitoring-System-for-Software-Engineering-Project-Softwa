@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\App\Http\Controllers\NotificationController</OriginalElement>
+  <nodes>
+    <node x="1186.0" y="221.0">\App\Http\Controllers\UserController</node>
+    <node x="1665.0" y="155.0">\App\Http\Controllers\AppointmentController</node>
+    <node x="2091.0" y="144.0">\App\Http\Controllers\TaskController</node>
+    <node x="182.0" y="221.0">\App\Http\Controllers\ProjectController</node>
+    <node x="864.0" y="221.0">\App\Http\Controllers\ActivityController</node>
+    <node x="1508.0" y="287.0">\App\Http\Controllers\Auth\PasswordController</node>
+    <node x="662.0" y="287.0">\App\Http\Controllers\NotificationController</node>
+    <node x="936.5" y="0.0">\App\Http\Controllers\Controller</node>
+    <node x="504.0" y="287.0">\App\Http\Controllers\Auth\AuthController</node>
+    <node x="0.0" y="298.0">\App\Http\Controllers\HomeController</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\App\Http\Controllers\ActivityController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-114.5" />
+      <point x="0.0" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\Auth\AuthController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-48.5" />
+      <point x="573.0" y="114.0" />
+      <point x="980.1111111111111" y="114.0" />
+      <point x="-34.888888888888914" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\ProjectController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-114.5" />
+      <point x="333.0" y="104.0" />
+      <point x="962.6666666666666" y="104.0" />
+      <point x="-52.33333333333337" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\Auth\PasswordController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-48.5" />
+      <point x="1576.5" y="114.0" />
+      <point x="1049.888888888889" y="114.0" />
+      <point x="34.888888888888914" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\UserController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-114.5" />
+      <point x="1337.0" y="124.0" />
+      <point x="1032.4444444444443" y="124.0" />
+      <point x="17.444444444444343" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\AppointmentController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-180.5" />
+      <point x="1868.0" y="104.0" />
+      <point x="1067.3333333333333" y="104.0" />
+      <point x="52.33333333333326" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\NotificationController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-48.5" />
+      <point x="753.0" y="124.0" />
+      <point x="997.5555555555555" y="124.0" />
+      <point x="-17.444444444444457" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\HomeController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-37.5" />
+      <point x="81.0" y="94.0" />
+      <point x="945.2222222222222" y="94.0" />
+      <point x="-69.77777777777783" y="37.0" />
+    </edge>
+    <edge source="\App\Http\Controllers\TaskController" target="\App\Http\Controllers\Controller">
+      <point x="0.0" y="-191.5" />
+      <point x="2304.0" y="94.0" />
+      <point x="1084.7777777777778" y="94.0" />
+      <point x="69.77777777777783" y="37.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7774436090225564" x="672.0" y="145.01740812379109" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

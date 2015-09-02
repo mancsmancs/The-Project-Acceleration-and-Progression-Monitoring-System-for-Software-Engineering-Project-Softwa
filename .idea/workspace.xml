@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e15877b8-f0be-4138-b9b5-b02045212b17" name="Default" comment="" />
+    <ignored path="projectjob.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="projectjob" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PHP/\Schema" pinned="false" current-in-tab="false">
+        <entry file="uml://PHP/\Schema">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>\Schema</OriginalElement>
+              <nodes>
+                <node x="865.0" y="100.0">\App\Http\Controllers\UserController</node>
+                <node x="448.0" y="705.0">\Event</node>
+                <node x="247.0" y="555.0">\App\Exceptions\Handler</node>
+                <node x="131.0" y="100.0">\App\Http\Controllers\ProjectController</node>
+                <node x="394.0" y="480.0">\Validator</node>
+                <node x="368.0" y="555.0">\Schema</node>
+                <node x="718.0" y="100.0">\App\Http\Controllers\ActivityController</node>
+                <node x="562.0" y="330.0">\App\Providers\BusServiceProvider</node>
+                <node x="646.0" y="480.0">\App\Services\Registrar</node>
+                <node x="0.0" y="780.0">\Input</node>
+                <node x="597.0" y="855.0">\DB</node>
+                <node x="237.0" y="630.0">\Cookie</node>
+                <node x="163.0" y="405.0">\App\Appointment</node>
+                <node x="188.0" y="255.0">\ExampleTest</node>
+                <node x="995.0" y="100.0">\App\Http\Controllers\Auth\PasswordController</node>
+                <node x="579.5" y="0.0">\App\Http\Controllers\Controller</node>
+                <node x="527.0" y="780.0">\App\Task</node>
+                <node x="213.0" y="780.0">\Lang</node>
+                <node x="0.0" y="705.0">\Queue</node>
+                <node x="630.0" y="780.0">\App\User</node>
+                <node x="0.0" y="855.0">\Mail</node>
+                <node x="556.0" y="705.0">\Crypt</node>
+                <node x="0.0" y="330.0">\App\Providers\RouteServiceProvider</node>
+                <node x="664.0" y="705.0">\Blade</node>
+                <node x="423.0" y="780.0">\View</node>
+                <node x="500.0" y="855.0">\File</node>
+                <node x="408.0" y="100.0">\App\Http\Controllers\HomeController</node>
+                <node x="313.0" y="405.0">\App\Http\Middleware\Authenticate</node>
+                <node x="585.0" y="630.0">\Config</node>
+                <node x="338.0" y="705.0">\Route</node>
+                <node x="0.0" y="405.0">\App\Http\Middleware\VerifyCsrfToken</node>
+                <node x="125.0" y="555.0">\Redirect</node>
+                <node x="402.0" y="855.0">\Bus</node>
+                <node x="275.0" y="100.0">\App\Http\Controllers\Auth\AuthController</node>
+                <node x="1152.0" y="100.0">\App\Http\Controllers\AppointmentController</node>
+                <node x="333.0" y="175.0">\App\Http\Middleware\RedirectIfAuthenticated</node>
+                <node x="602.0" y="405.0">\App\Commands\Command</node>
+                <node x="610.0" y="555.0">\App\Activity</node>
+                <node x="114.0" y="705.0">\App\Http\Kernel</node>
+                <node x="353.0" y="630.0">\Artisan</node>
+                <node x="136.0" y="480.0">\Password</node>
+                <node x="265.0" y="480.0">\Response</node>
+                <node x="81.0" y="255.0">\Form</node>
+                <node x="548.0" y="100.0">\App\Http\Controllers\NotificationController</node>
+                <node x="102.0" y="855.0">\App</node>
+                <node x="191.0" y="330.0">\App\Providers\EventServiceProvider</node>
+                <node x="318.0" y="780.0">\Auth</node>
+                <node x="520.0" y="480.0">\Eloquent</node>
+                <node x="0.0" y="100.0">\App\Http\Controllers\TaskController</node>
+                <node x="197.5" y="175.0">\TestCase</node>
+                <node x="107.0" y="780.0">\Hash</node>
+                <node x="0.0" y="555.0">\Inspiring</node>
+                <node x="380.0" y="330.0">\App\Providers\AppServiceProvider</node>
+                <node x="119.0" y="630.0">\Session</node>
+                <node x="460.0" y="405.0">\App\Notification</node>
+                <node x="303.0" y="855.0">\Log</node>
+                <node x="35.75" y="175.0">\Illuminate\Support\Facades\Facade</node>
+                <node x="537.0" y="175.0">\App\Providers\ConfigServiceProvider</node>
+                <node x="203.0" y="855.0">\URL</node>
+                <node x="0.0" y="255.0">\Html</node>
+                <node x="469.0" y="630.0">\App\Project</node>
+                <node x="489.0" y="555.0">\Request</node>
+                <node x="0.0" y="480.0">\App\ActiveTask</node>
+                <node x="0.0" y="630.0">\Storage</node>
+                <node x="226.0" y="705.0">\Cache</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\App\Http\Controllers\ActivityController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="781.5" y="80.0" />
+                  <point x="632.6666666666666" y="80.0" />
+                  <point x="9.666666666666629" y="15.0" />
+                </edge>
+                <edge source="\Html" target="\Illuminate\Support\Facades\Facade">
+                  <point x="0.0" y="-15.0" />
+                  <point x="30.5" y="230.0" />
+                  <point x="53.5" y="230.0" />
+                  <point x="-17.75" y="15.0" />
+                </edge>
+                <edge source="\Form" target="\Illuminate\Support\Facades\Facade">
+                  <point x="0.0" y="-15.0" />
+                  <point x="112.0" y="230.0" />
+                  <point x="89.0" y="230.0" />
+                  <point x="17.75" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Auth\AuthController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="331.5" y="70.0" />
+                  <point x="603.6666666666666" y="70.0" />
+                  <point x="-19.33333333333337" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\ProjectController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="193.0" y="60.0" />
+                  <point x="594.0" y="60.0" />
+                  <point x="-29.0" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Auth\PasswordController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1063.5" y="60.0" />
+                  <point x="652.0" y="60.0" />
+                  <point x="29.0" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\UserController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="920.0" y="70.0" />
+                  <point x="642.3333333333334" y="70.0" />
+                  <point x="19.33333333333337" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\AppointmentController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="1231.0" y="50.0" />
+                  <point x="661.6666666666666" y="50.0" />
+                  <point x="38.66666666666663" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\NotificationController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\ExampleTest" target="\TestCase">
+                  <point x="0.0" y="-15.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\HomeController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="468.0" y="80.0" />
+                  <point x="613.3333333333334" y="80.0" />
+                  <point x="-9.666666666666629" y="15.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\TaskController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-15.0" />
+                  <point x="55.5" y="50.0" />
+                  <point x="584.3333333333334" y="50.0" />
+                  <point x="-38.66666666666663" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.6408839779005525" x="223.48275862068965" y="144.48275862068965" />
+              <SelectedNodes>
+                <node>\App\Exceptions\Handler</node>
+              </SelectedNodes>
+              <Categories />
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHP/\App\Http\Controllers\NotificationController" pinned="false" current-in-tab="false">
+        <entry file="uml://PHP/\App\Http\Controllers\NotificationController">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>\App\Http\Controllers\NotificationController</OriginalElement>
+              <nodes>
+                <node x="1186.0" y="221.0">\App\Http\Controllers\UserController</node>
+                <node x="1665.0" y="155.0">\App\Http\Controllers\AppointmentController</node>
+                <node x="2091.0" y="144.0">\App\Http\Controllers\TaskController</node>
+                <node x="182.0" y="221.0">\App\Http\Controllers\ProjectController</node>
+                <node x="864.0" y="221.0">\App\Http\Controllers\ActivityController</node>
+                <node x="1508.0" y="287.0">\App\Http\Controllers\Auth\PasswordController</node>
+                <node x="662.0" y="287.0">\App\Http\Controllers\NotificationController</node>
+                <node x="936.5" y="0.0">\App\Http\Controllers\Controller</node>
+                <node x="504.0" y="287.0">\App\Http\Controllers\Auth\AuthController</node>
+                <node x="0.0" y="298.0">\App\Http\Controllers\HomeController</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\App\Http\Controllers\ActivityController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-114.5" />
+                  <point x="0.0" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Auth\AuthController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-48.5" />
+                  <point x="573.0" y="114.0" />
+                  <point x="980.1111111111111" y="114.0" />
+                  <point x="-34.888888888888914" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\ProjectController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-114.5" />
+                  <point x="333.0" y="104.0" />
+                  <point x="962.6666666666666" y="104.0" />
+                  <point x="-52.33333333333337" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\Auth\PasswordController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-48.5" />
+                  <point x="1576.5" y="114.0" />
+                  <point x="1049.888888888889" y="114.0" />
+                  <point x="34.888888888888914" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\UserController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-114.5" />
+                  <point x="1337.0" y="124.0" />
+                  <point x="1032.4444444444443" y="124.0" />
+                  <point x="17.444444444444343" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\AppointmentController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-180.5" />
+                  <point x="1868.0" y="104.0" />
+                  <point x="1067.3333333333333" y="104.0" />
+                  <point x="52.33333333333326" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\NotificationController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-48.5" />
+                  <point x="753.0" y="124.0" />
+                  <point x="997.5555555555555" y="124.0" />
+                  <point x="-17.444444444444457" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\HomeController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-37.5" />
+                  <point x="81.0" y="94.0" />
+                  <point x="945.2222222222222" y="94.0" />
+                  <point x="-69.77777777777783" y="37.0" />
+                </edge>
+                <edge source="\App\Http\Controllers\TaskController" target="\App\Http\Controllers\Controller">
+                  <point x="0.0" y="-191.5" />
+                  <point x="2304.0" y="94.0" />
+                  <point x="1084.7777777777778" y="94.0" />
+                  <point x="69.77777777777783" y="37.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7774436090225564" x="298.70406189555126" y="220.70406189555126" />
+              <SelectedNodes>
+                <node>\App\Http\Controllers\NotificationController</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Methods</Category>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHP/\App\User" pinned="false" current-in-tab="true">
+        <entry file="uml://PHP/\App\User">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>PHP</ID>
+              <OriginalElement>\App\User</OriginalElement>
+              <nodes>
+                <node x="118.0" y="0.0">\Illuminate\Contracts\Queue\QueueableEntity</node>
+                <node x="708.3035714285714" y="210.0">\App\User</node>
+                <node x="581.4504464285715" y="90.0">\Illuminate\Contracts\Auth\CanResetPassword</node>
+                <node x="484.8928571428571" y="210.0">\App\Notification</node>
+                <node x="394.0" y="0.0">\Illuminate\Contracts\Support\Jsonable</node>
+                <node x="0.0" y="0.0">\ArrayAccess</node>
+                <node x="265.8928571428571" y="210.0">\App\Activity</node>
+                <node x="259.0" y="0.0">\JsonSerializable</node>
+                <node x="734.4504464285715" y="90.0">\Illuminate\Contracts\Auth\Authenticatable</node>
+                <node x="359.8928571428571" y="210.0">\App\Appointment</node>
+                <node x="174.8928571428571" y="210.0">\App\Project</node>
+                <node x="361.97611607142846" y="90.0">\Illuminate\Database\Eloquent\Model</node>
+                <node x="493.0" y="0.0">\Illuminate\Contracts\Routing\UrlRoutable</node>
+                <node x="63.89285714285711" y="210.0">\App\ActiveTask</node>
+                <node x="609.0" y="0.0">\Illuminate\Contracts\Support\Arrayable</node>
+                <node x="601.8928571428571" y="210.0">\App\Task</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Routing\UrlRoutable">
+                  <point x="17.0" y="-15.0" />
+                  <point x="412.97611607142846" y="60.0" />
+                  <point x="541.0" y="60.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\Notification" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-15.0" />
+                  <point x="533.3928571428571" y="180.0" />
+                  <point x="405.69040178571424" y="180.0" />
+                  <point x="9.71428571428578" y="15.0" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Arrayable">
+                  <point x="28.333333333333258" y="-15.0" />
+                  <point x="424.3094494047617" y="70.0" />
+                  <point x="651.0" y="70.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\Task" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-15.0" />
+                  <point x="630.8928571428571" y="170.0" />
+                  <point x="415.4046874999998" y="170.0" />
+                  <point x="19.42857142857133" y="15.0" />
+                </edge>
+                <edge source="\App\ActiveTask" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-15.0" />
+                  <point x="109.39285714285711" y="170.0" />
+                  <point x="366.83325892857135" y="170.0" />
+                  <point x="-29.14285714285711" y="15.0" />
+                </edge>
+                <edge source="\App\User" target="\Illuminate\Contracts\Auth\CanResetPassword">
+                  <point x="0.0" y="-15.0" />
+                  <point x="736.8035714285714" y="140.0" />
+                  <point x="681.2004464285715" y="140.0" />
+                  <point x="33.25" y="15.0" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\JsonSerializable">
+                  <point x="-5.6666666666667425" y="-15.0" />
+                  <point x="390.3094494047617" y="50.0" />
+                  <point x="316.5" y="50.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\User" target="\Illuminate\Contracts\Auth\Authenticatable">
+                  <point x="22.800000000000182" y="-15.0" />
+                  <point x="759.6035714285716" y="190.0" />
+                  <point x="822.9504464285715" y="190.0" />
+                  <point x="29.5" y="15.0" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Jsonable">
+                  <point x="5.6666666666667425" y="-15.0" />
+                  <point x="401.6427827380952" y="50.0" />
+                  <point x="433.5" y="50.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\Activity" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-15.0" />
+                  <point x="302.8928571428571" y="190.0" />
+                  <point x="386.2618303571427" y="190.0" />
+                  <point x="-9.71428571428578" y="15.0" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Queue\QueueableEntity">
+                  <point x="-17.0" y="-15.0" />
+                  <point x="378.97611607142846" y="60.0" />
+                  <point x="178.5" y="60.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\Project" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-15.0" />
+                  <point x="210.3928571428571" y="180.0" />
+                  <point x="376.54754464285713" y="180.0" />
+                  <point x="-19.42857142857133" y="15.0" />
+                </edge>
+                <edge source="\App\Appointment" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="0.0" y="-15.0" />
+                  <point x="412.3928571428571" y="190.0" />
+                  <point x="395.97611607142846" y="190.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\Illuminate\Database\Eloquent\Model" target="\ArrayAccess">
+                  <point x="-28.333333333333258" y="-15.0" />
+                  <point x="367.6427827380952" y="70.0" />
+                  <point x="49.0" y="70.0" />
+                  <point x="0.0" y="15.0" />
+                </edge>
+                <edge source="\App\User" target="\Illuminate\Database\Eloquent\Model">
+                  <point x="-22.800000000000182" y="-15.0" />
+                  <point x="714.0035714285713" y="160.0" />
+                  <point x="425.1189732142856" y="160.0" />
+                  <point x="29.14285714285711" y="15.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="426.5" y="120.0" />
+              <SelectedNodes>
+                <node>\App\User</node>
+              </SelectedNodes>
+              <Categories />
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/Untitled-1.html" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/appointment/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/appointment/index.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appointment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projectjob" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e15877b8-f0be-4138-b9b5-b02045212b17" name="Default" comment="" />
+      <created>1437833717310</created>
+      <option name="number" value="Default" />
+      <updated>1437833717310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/appointment/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="134" max-vertical-offset="1921">
+          <caret line="32" column="63" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/appointment/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1785">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/appointment/adviser.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3060">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3366">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Providers\AppServiceProvider">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Providers\AppServiceProvider</OriginalElement>
+          <nodes>
+            <node x="" y="">\App\Providers\RouteServiceProvider</node>
+            <node x="" y="">\Illuminate\Support\ServiceProvider</node>
+            <node x="" y="">\App\Providers\ConfigServiceProvider</node>
+            <node x="" y="">\App\Providers\BusServiceProvider</node>
+            <node x="" y="">\App\Providers\AppServiceProvider</node>
+            <node x="" y="">\App\Providers\EventServiceProvider</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="231.0" y="130.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Redirect">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Redirect</OriginalElement>
+          <nodes>
+            <node x="" y="">\Illuminate\Support\Facades\Redirect</node>
+            <node x="" y="">\Event</node>
+            <node x="" y="">\Schema</node>
+            <node x="" y="">\Validator</node>
+            <node x="" y="">\Artisan</node>
+            <node x="" y="">\Password</node>
+            <node x="" y="">\Response</node>
+            <node x="" y="">\Form</node>
+            <node x="" y="">\Auth</node>
+            <node x="" y="">\App</node>
+            <node x="" y="">\Input</node>
+            <node x="" y="">\Eloquent</node>
+            <node x="" y="">\DB</node>
+            <node x="" y="">\Cookie</node>
+            <node x="" y="">\Hash</node>
+            <node x="" y="">\Inspiring</node>
+            <node x="" y="">\Lang</node>
+            <node x="" y="">\Queue</node>
+            <node x="" y="">\Session</node>
+            <node x="" y="">\Mail</node>
+            <node x="" y="">\Log</node>
+            <node x="" y="">\Crypt</node>
+            <node x="" y="">\Illuminate\Support\Facades\Facade</node>
+            <node x="" y="">\Blade</node>
+            <node x="" y="">\View</node>
+            <node x="" y="">\File</node>
+            <node x="" y="">\URL</node>
+            <node x="" y="">\Config</node>
+            <node x="" y="">\Html</node>
+            <node x="" y="">\Request</node>
+            <node x="" y="">\Route</node>
+            <node x="" y="">\Bus</node>
+            <node x="" y="">\Cache</node>
+            <node x="" y="">\Storage</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7" x="2908.0" y="5519.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23924269" vertical-offset="116" max-vertical-offset="697">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="3417">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AppointmentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="23.538462" vertical-offset="612" max-vertical-offset="6205">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/appointment/adviser.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3587">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/appointment/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46126762" vertical-offset="724" max-vertical-offset="1955">
+          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/appointment/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.72183096" vertical-offset="168" max-vertical-offset="2295">
+          <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.43373495" vertical-offset="252" max-vertical-offset="833">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\ActiveTask">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\ActiveTask</OriginalElement>
+          <nodes>
+            <node x="" y="">\Illuminate\Contracts\Queue\QueueableEntity</node>
+            <node x="" y="">\JsonSerializable</node>
+            <node x="" y="">\Illuminate\Contracts\Support\Jsonable</node>
+            <node x="" y="">\ArrayAccess</node>
+            <node x="" y="">\Illuminate\Database\Eloquent\Model</node>
+            <node x="" y="">\Illuminate\Contracts\Routing\UrlRoutable</node>
+            <node x="" y="">\App\ActiveTask</node>
+            <node x="" y="">\Illuminate\Contracts\Support\Arrayable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-1133.0" y="5200.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\AppointmentController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\AppointmentController</OriginalElement>
+          <nodes>
+            <node x="" y="">\App\Http\Controllers\AppointmentController</node>
+            <node x="" y="">\App\Appointment</node>
+            <node x="" y="">\Illuminate\Routing\Controller</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="92.57142857142856" y="332.2857142857142" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20950705" vertical-offset="0" max-vertical-offset="3502">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Appointment">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Appointment</OriginalElement>
+          <nodes>
+            <node x="" y="">\Illuminate\Contracts\Queue\QueueableEntity</node>
+            <node x="" y="">\App\Http\Controllers\AppointmentController</node>
+            <node x="" y="">\JsonSerializable</node>
+            <node x="" y="">\Illuminate\Contracts\Support\Jsonable</node>
+            <node x="" y="">\App\Appointment</node>
+            <node x="" y="">\ArrayAccess</node>
+            <node x="" y="">\Illuminate\Database\Eloquent\Model</node>
+            <node x="" y="">\Illuminate\Contracts\Routing\UrlRoutable</node>
+            <node x="" y="">\Illuminate\Contracts\Support\Arrayable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="346.5" y="137.5" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\TaskController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\TaskController</OriginalElement>
+          <nodes>
+            <node x="" y="">\App\Http\Controllers\AppointmentController</node>
+            <node x="" y="">\App\Http\Controllers\UserController</node>
+            <node x="" y="">\App\User</node>
+            <node x="" y="">\App\Notification</node>
+            <node x="" y="">\App\Http\Controllers\ProjectController</node>
+            <node x="" y="">\App\Activity</node>
+            <node x="" y="">\App\Http\Controllers\ActivityController</node>
+            <node x="" y="">\App\Http\Controllers\NotificationController</node>
+            <node x="" y="">\App\Http\Controllers\HomeController</node>
+            <node x="" y="">\App\Http\Controllers\TaskController</node>
+            <node x="" y="">\App\Appointment</node>
+            <node x="" y="">\App\Project</node>
+            <node x="" y="">\App\Http\Controllers\Auth\PasswordController</node>
+            <node x="" y="">\App\ActiveTask</node>
+            <node x="" y="">\App\Http\Controllers\Controller</node>
+            <node x="" y="">\App\Http\Controllers\Auth\AuthController</node>
+            <node x="" y="">\App\Task</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7774436090225564" x="655.0" y="220.01740812379109" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Kernel">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Kernel</OriginalElement>
+          <nodes>
+            <node x="" y="">\Illuminate\Foundation\Http\Kernel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="33.5" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\ActivityController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\ActivityController</OriginalElement>
+          <nodes>
+            <node x="" y="">\Illuminate\Routing\Controller</node>
+            <node x="" y="">\App\Http\Controllers\ActivityController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="64.0" y="215.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\UserController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\UserController</OriginalElement>
+          <nodes>
+            <node x="" y="">\App\Http\Controllers\UserController</node>
+            <node x="" y="">\App\Http\Controllers\AppointmentController</node>
+            <node x="" y="">\App\Http\Controllers\TaskController</node>
+            <node x="" y="">\App\Http\Controllers\ProjectController</node>
+            <node x="" y="">\App\Http\Controllers\ActivityController</node>
+            <node x="" y="">\App\Http\Controllers\Auth\PasswordController</node>
+            <node x="" y="">\App\Http\Controllers\NotificationController</node>
+            <node x="" y="">\App\Http\Controllers\Controller</node>
+            <node x="" y="">\App\Http\Controllers\Auth\AuthController</node>
+            <node x="" y="">\App\Http\Controllers\HomeController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7774436090225564" x="655.0" y="285.0174081237911" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\Auth\AuthController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\Auth\AuthController</OriginalElement>
+          <nodes>
+            <node x="" y="">\App\Http\Controllers\UserController</node>
+            <node x="" y="">\App\Http\Controllers\AppointmentController</node>
+            <node x="" y="">\App\Http\Controllers\TaskController</node>
+            <node x="" y="">\App\Http\Controllers\ProjectController</node>
+            <node x="" y="">\App\Http\Controllers\ActivityController</node>
+            <node x="" y="">\App\Http\Controllers\Auth\PasswordController</node>
+            <node x="" y="">\App\Http\Controllers\NotificationController</node>
+            <node x="" y="">\App\Http\Controllers\Controller</node>
+            <node x="" y="">\App\Http\Controllers\Auth\AuthController</node>
+            <node x="" y="">\App\Http\Controllers\HomeController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7774436090225564" x="655.0" y="145.01740812379109" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\Controller">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\Controller</OriginalElement>
+          <nodes>
+            <node x="" y="">\App\Http\Controllers\UserController</node>
+            <node x="" y="">\App\Http\Controllers\AppointmentController</node>
+            <node x="" y="">\App\Http\Controllers\TaskController</node>
+            <node x="" y="">\App\Http\Controllers\ProjectController</node>
+            <node x="" y="">\Illuminate\Routing\Controller</node>
+            <node x="" y="">\App\Http\Controllers\ActivityController</node>
+            <node x="" y="">\App\Http\Controllers\Auth\PasswordController</node>
+            <node x="" y="">\App\Http\Controllers\NotificationController</node>
+            <node x="" y="">\App\Http\Controllers\Auth\AuthController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.8689075630252101" x="585.0" y="225.752417794971" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Activity">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Activity</OriginalElement>
+          <nodes>
+            <node x="" y="">\Illuminate\Contracts\Queue\QueueableEntity</node>
+            <node x="" y="">\JsonSerializable</node>
+            <node x="" y="">\Illuminate\Contracts\Support\Jsonable</node>
+            <node x="" y="">\ArrayAccess</node>
+            <node x="" y="">\Illuminate\Database\Eloquent\Model</node>
+            <node x="" y="">\App\Activity</node>
+            <node x="" y="">\Illuminate\Contracts\Routing\UrlRoutable</node>
+            <node x="" y="">\Illuminate\Contracts\Support\Arrayable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="346.5" y="100.0" />
+          <SelectedNodes />
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\Schema">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\Schema</OriginalElement>
+          <nodes>
+            <node x="865.0" y="100.0">\App\Http\Controllers\UserController</node>
+            <node x="448.0" y="705.0">\Event</node>
+            <node x="247.0" y="555.0">\App\Exceptions\Handler</node>
+            <node x="131.0" y="100.0">\App\Http\Controllers\ProjectController</node>
+            <node x="394.0" y="480.0">\Validator</node>
+            <node x="368.0" y="555.0">\Schema</node>
+            <node x="718.0" y="100.0">\App\Http\Controllers\ActivityController</node>
+            <node x="562.0" y="330.0">\App\Providers\BusServiceProvider</node>
+            <node x="646.0" y="480.0">\App\Services\Registrar</node>
+            <node x="0.0" y="780.0">\Input</node>
+            <node x="597.0" y="855.0">\DB</node>
+            <node x="237.0" y="630.0">\Cookie</node>
+            <node x="163.0" y="405.0">\App\Appointment</node>
+            <node x="188.0" y="255.0">\ExampleTest</node>
+            <node x="995.0" y="100.0">\App\Http\Controllers\Auth\PasswordController</node>
+            <node x="579.5" y="0.0">\App\Http\Controllers\Controller</node>
+            <node x="527.0" y="780.0">\App\Task</node>
+            <node x="213.0" y="780.0">\Lang</node>
+            <node x="0.0" y="705.0">\Queue</node>
+            <node x="630.0" y="780.0">\App\User</node>
+            <node x="0.0" y="855.0">\Mail</node>
+            <node x="556.0" y="705.0">\Crypt</node>
+            <node x="0.0" y="330.0">\App\Providers\RouteServiceProvider</node>
+            <node x="664.0" y="705.0">\Blade</node>
+            <node x="423.0" y="780.0">\View</node>
+            <node x="500.0" y="855.0">\File</node>
+            <node x="408.0" y="100.0">\App\Http\Controllers\HomeController</node>
+            <node x="313.0" y="405.0">\App\Http\Middleware\Authenticate</node>
+            <node x="585.0" y="630.0">\Config</node>
+            <node x="338.0" y="705.0">\Route</node>
+            <node x="0.0" y="405.0">\App\Http\Middleware\VerifyCsrfToken</node>
+            <node x="125.0" y="555.0">\Redirect</node>
+            <node x="402.0" y="855.0">\Bus</node>
+            <node x="275.0" y="100.0">\App\Http\Controllers\Auth\AuthController</node>
+            <node x="1152.0" y="100.0">\App\Http\Controllers\AppointmentController</node>
+            <node x="333.0" y="175.0">\App\Http\Middleware\RedirectIfAuthenticated</node>
+            <node x="602.0" y="405.0">\App\Commands\Command</node>
+            <node x="610.0" y="555.0">\App\Activity</node>
+            <node x="114.0" y="705.0">\App\Http\Kernel</node>
+            <node x="353.0" y="630.0">\Artisan</node>
+            <node x="136.0" y="480.0">\Password</node>
+            <node x="265.0" y="480.0">\Response</node>
+            <node x="81.0" y="255.0">\Form</node>
+            <node x="548.0" y="100.0">\App\Http\Controllers\NotificationController</node>
+            <node x="102.0" y="855.0">\App</node>
+            <node x="191.0" y="330.0">\App\Providers\EventServiceProvider</node>
+            <node x="318.0" y="780.0">\Auth</node>
+            <node x="520.0" y="480.0">\Eloquent</node>
+            <node x="0.0" y="100.0">\App\Http\Controllers\TaskController</node>
+            <node x="197.5" y="175.0">\TestCase</node>
+            <node x="107.0" y="780.0">\Hash</node>
+            <node x="0.0" y="555.0">\Inspiring</node>
+            <node x="380.0" y="330.0">\App\Providers\AppServiceProvider</node>
+            <node x="119.0" y="630.0">\Session</node>
+            <node x="460.0" y="405.0">\App\Notification</node>
+            <node x="303.0" y="855.0">\Log</node>
+            <node x="35.75" y="175.0">\Illuminate\Support\Facades\Facade</node>
+            <node x="537.0" y="175.0">\App\Providers\ConfigServiceProvider</node>
+            <node x="203.0" y="855.0">\URL</node>
+            <node x="0.0" y="255.0">\Html</node>
+            <node x="469.0" y="630.0">\App\Project</node>
+            <node x="489.0" y="555.0">\Request</node>
+            <node x="0.0" y="480.0">\App\ActiveTask</node>
+            <node x="0.0" y="630.0">\Storage</node>
+            <node x="226.0" y="705.0">\Cache</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\App\Http\Controllers\ActivityController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="781.5" y="80.0" />
+              <point x="632.6666666666666" y="80.0" />
+              <point x="9.666666666666629" y="15.0" />
+            </edge>
+            <edge source="\Html" target="\Illuminate\Support\Facades\Facade">
+              <point x="0.0" y="-15.0" />
+              <point x="30.5" y="230.0" />
+              <point x="53.5" y="230.0" />
+              <point x="-17.75" y="15.0" />
+            </edge>
+            <edge source="\Form" target="\Illuminate\Support\Facades\Facade">
+              <point x="0.0" y="-15.0" />
+              <point x="112.0" y="230.0" />
+              <point x="89.0" y="230.0" />
+              <point x="17.75" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Auth\AuthController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="331.5" y="70.0" />
+              <point x="603.6666666666666" y="70.0" />
+              <point x="-19.33333333333337" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\ProjectController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="193.0" y="60.0" />
+              <point x="594.0" y="60.0" />
+              <point x="-29.0" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Auth\PasswordController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="1063.5" y="60.0" />
+              <point x="652.0" y="60.0" />
+              <point x="29.0" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\UserController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="920.0" y="70.0" />
+              <point x="642.3333333333334" y="70.0" />
+              <point x="19.33333333333337" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\AppointmentController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="1231.0" y="50.0" />
+              <point x="661.6666666666666" y="50.0" />
+              <point x="38.66666666666663" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\NotificationController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\ExampleTest" target="\TestCase">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\HomeController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="468.0" y="80.0" />
+              <point x="613.3333333333334" y="80.0" />
+              <point x="-9.666666666666629" y="15.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\TaskController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-15.0" />
+              <point x="55.5" y="50.0" />
+              <point x="584.3333333333334" y="50.0" />
+              <point x="-38.66666666666663" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6408839779005525" x="223.48275862068965" y="144.48275862068965" />
+          <SelectedNodes>
+            <node>\App\Exceptions\Handler</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\Http\Controllers\NotificationController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\Http\Controllers\NotificationController</OriginalElement>
+          <nodes>
+            <node x="1186.0" y="221.0">\App\Http\Controllers\UserController</node>
+            <node x="1665.0" y="155.0">\App\Http\Controllers\AppointmentController</node>
+            <node x="2091.0" y="144.0">\App\Http\Controllers\TaskController</node>
+            <node x="182.0" y="221.0">\App\Http\Controllers\ProjectController</node>
+            <node x="864.0" y="221.0">\App\Http\Controllers\ActivityController</node>
+            <node x="1508.0" y="287.0">\App\Http\Controllers\Auth\PasswordController</node>
+            <node x="662.0" y="287.0">\App\Http\Controllers\NotificationController</node>
+            <node x="936.5" y="0.0">\App\Http\Controllers\Controller</node>
+            <node x="504.0" y="287.0">\App\Http\Controllers\Auth\AuthController</node>
+            <node x="0.0" y="298.0">\App\Http\Controllers\HomeController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\App\Http\Controllers\ActivityController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-114.5" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Auth\AuthController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-48.5" />
+              <point x="573.0" y="114.0" />
+              <point x="980.1111111111111" y="114.0" />
+              <point x="-34.888888888888914" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\ProjectController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-114.5" />
+              <point x="333.0" y="104.0" />
+              <point x="962.6666666666666" y="104.0" />
+              <point x="-52.33333333333337" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\Auth\PasswordController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-48.5" />
+              <point x="1576.5" y="114.0" />
+              <point x="1049.888888888889" y="114.0" />
+              <point x="34.888888888888914" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\UserController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-114.5" />
+              <point x="1337.0" y="124.0" />
+              <point x="1032.4444444444443" y="124.0" />
+              <point x="17.444444444444343" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\AppointmentController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-180.5" />
+              <point x="1868.0" y="104.0" />
+              <point x="1067.3333333333333" y="104.0" />
+              <point x="52.33333333333326" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\NotificationController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-48.5" />
+              <point x="753.0" y="124.0" />
+              <point x="997.5555555555555" y="124.0" />
+              <point x="-17.444444444444457" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\HomeController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-37.5" />
+              <point x="81.0" y="94.0" />
+              <point x="945.2222222222222" y="94.0" />
+              <point x="-69.77777777777783" y="37.0" />
+            </edge>
+            <edge source="\App\Http\Controllers\TaskController" target="\App\Http\Controllers\Controller">
+              <point x="0.0" y="-191.5" />
+              <point x="2304.0" y="94.0" />
+              <point x="1084.7777777777778" y="94.0" />
+              <point x="69.77777777777783" y="37.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7774436090225564" x="298.70406189555126" y="220.70406189555126" />
+          <SelectedNodes>
+            <node>\App\Http\Controllers\NotificationController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://PHP/\App\User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>PHP</ID>
+          <OriginalElement>\App\User</OriginalElement>
+          <nodes>
+            <node x="118.0" y="0.0">\Illuminate\Contracts\Queue\QueueableEntity</node>
+            <node x="708.3035714285714" y="210.0">\App\User</node>
+            <node x="581.4504464285715" y="90.0">\Illuminate\Contracts\Auth\CanResetPassword</node>
+            <node x="484.8928571428571" y="210.0">\App\Notification</node>
+            <node x="394.0" y="0.0">\Illuminate\Contracts\Support\Jsonable</node>
+            <node x="0.0" y="0.0">\ArrayAccess</node>
+            <node x="265.8928571428571" y="210.0">\App\Activity</node>
+            <node x="259.0" y="0.0">\JsonSerializable</node>
+            <node x="734.4504464285715" y="90.0">\Illuminate\Contracts\Auth\Authenticatable</node>
+            <node x="359.8928571428571" y="210.0">\App\Appointment</node>
+            <node x="174.8928571428571" y="210.0">\App\Project</node>
+            <node x="361.97611607142846" y="90.0">\Illuminate\Database\Eloquent\Model</node>
+            <node x="493.0" y="0.0">\Illuminate\Contracts\Routing\UrlRoutable</node>
+            <node x="63.89285714285711" y="210.0">\App\ActiveTask</node>
+            <node x="609.0" y="0.0">\Illuminate\Contracts\Support\Arrayable</node>
+            <node x="601.8928571428571" y="210.0">\App\Task</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Routing\UrlRoutable">
+              <point x="17.0" y="-15.0" />
+              <point x="412.97611607142846" y="60.0" />
+              <point x="541.0" y="60.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\Notification" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-15.0" />
+              <point x="533.3928571428571" y="180.0" />
+              <point x="405.69040178571424" y="180.0" />
+              <point x="9.71428571428578" y="15.0" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Arrayable">
+              <point x="28.333333333333258" y="-15.0" />
+              <point x="424.3094494047617" y="70.0" />
+              <point x="651.0" y="70.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\Task" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-15.0" />
+              <point x="630.8928571428571" y="170.0" />
+              <point x="415.4046874999998" y="170.0" />
+              <point x="19.42857142857133" y="15.0" />
+            </edge>
+            <edge source="\App\ActiveTask" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-15.0" />
+              <point x="109.39285714285711" y="170.0" />
+              <point x="366.83325892857135" y="170.0" />
+              <point x="-29.14285714285711" y="15.0" />
+            </edge>
+            <edge source="\App\User" target="\Illuminate\Contracts\Auth\CanResetPassword">
+              <point x="0.0" y="-15.0" />
+              <point x="736.8035714285714" y="140.0" />
+              <point x="681.2004464285715" y="140.0" />
+              <point x="33.25" y="15.0" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\JsonSerializable">
+              <point x="-5.6666666666667425" y="-15.0" />
+              <point x="390.3094494047617" y="50.0" />
+              <point x="316.5" y="50.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\User" target="\Illuminate\Contracts\Auth\Authenticatable">
+              <point x="22.800000000000182" y="-15.0" />
+              <point x="759.6035714285716" y="190.0" />
+              <point x="822.9504464285715" y="190.0" />
+              <point x="29.5" y="15.0" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Support\Jsonable">
+              <point x="5.6666666666667425" y="-15.0" />
+              <point x="401.6427827380952" y="50.0" />
+              <point x="433.5" y="50.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\Activity" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-15.0" />
+              <point x="302.8928571428571" y="190.0" />
+              <point x="386.2618303571427" y="190.0" />
+              <point x="-9.71428571428578" y="15.0" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\Illuminate\Contracts\Queue\QueueableEntity">
+              <point x="-17.0" y="-15.0" />
+              <point x="378.97611607142846" y="60.0" />
+              <point x="178.5" y="60.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\Project" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-15.0" />
+              <point x="210.3928571428571" y="180.0" />
+              <point x="376.54754464285713" y="180.0" />
+              <point x="-19.42857142857133" y="15.0" />
+            </edge>
+            <edge source="\App\Appointment" target="\Illuminate\Database\Eloquent\Model">
+              <point x="0.0" y="-15.0" />
+              <point x="412.3928571428571" y="190.0" />
+              <point x="395.97611607142846" y="190.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\Illuminate\Database\Eloquent\Model" target="\ArrayAccess">
+              <point x="-28.333333333333258" y="-15.0" />
+              <point x="367.6427827380952" y="70.0" />
+              <point x="49.0" y="70.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+            <edge source="\App\User" target="\Illuminate\Database\Eloquent\Model">
+              <point x="-22.800000000000182" y="-15.0" />
+              <point x="714.0035714285713" y="160.0" />
+              <point x="425.1189732142856" y="160.0" />
+              <point x="29.14285714285711" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="426.5" y="120.0" />
+          <SelectedNodes>
+            <node>\App\User</node>
+          </SelectedNodes>
+          <Categories />
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
